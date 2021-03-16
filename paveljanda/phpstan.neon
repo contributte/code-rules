@@ -1,0 +1,9 @@
+includes:
+	- ../../../vendor/phpstan/phpstan-strict-rules/rules.neon
+
+parameters:
+	excludes_analyse:
+		- ../../../tests/temp
+		- ../../../temp
+	checkMissingIterableValueType: false
+	checkGenericClassInNonGenericObjectType: false
