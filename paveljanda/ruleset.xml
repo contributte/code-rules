@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="Gamee">
-	<description>Gamee coding standard.</description>
+<ruleset name="paveljanda">
+	<description>paveljanda coding standard.</description>
 	<rule ref="Generic.WhiteSpace.DisallowSpaceIndent"/>
 	<rule ref="Generic.PHP.LowerCaseConstant"/>
 	<rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
