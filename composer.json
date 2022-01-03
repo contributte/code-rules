@@ -22,9 +22,9 @@
   ],
   "require": {
     "php": ">=7.2",
-    "phpstan/phpstan": "^0.12.56",
-    "phpstan/phpstan-strict-rules": "^0.12",
-    "phpstan/phpstan-dibi": "^0.12",
+    "phpstan/phpstan": "^1.0",
+    "phpstan/phpstan-strict-rules": "^1.0",
+    "phpstan/phpstan-dibi": "^1.0",
     "slevomat/coding-standard": "^6.0"
   },
   "minimum-stability": "dev",
